@@ -1,0 +1,1 @@
+C:\Users\vinayganesh\Documents\Visual Studio 2015\Projects\SunriseSunsetUWP\SunriseSunsetUWP\SunriseSunsetUWP.csproj;arm
